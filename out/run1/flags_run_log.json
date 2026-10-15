@@ -1,0 +1,12 @@
+{
+  "weekly_rows": 728,
+  "flagged_rows": 20,
+  "unexplained_Yes": 16,
+  "justified": 4,
+  "llm_calls": 0,
+  "llm_input_tokens": 0,
+  "llm_output_tokens": 0,
+  "llm_cost_usd": 0.0,
+  "retrieval": "TF-IDF cosine over 10 notes, local CPU, no API",
+  "output_sha256": "76785cc20d8121cb6eac0f31005a2397518feb0305051d25fe161b9d739589b6"
+}
